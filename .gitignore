@@ -1,0 +1,4 @@
+*.pkl
+*large*.csv
+Amazon Product and Google Location Review/*.pkl
+Amazon Product and Google Location Review/*.csv
